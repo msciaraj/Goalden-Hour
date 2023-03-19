@@ -1,2 +1,2 @@
 # Goalden-Hour
-first repo
+first repository
